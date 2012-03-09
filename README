@@ -4,4 +4,5 @@ Some miscellaneous awk scripts
 
 chart.awk - take the first field and use that to draw a bar chart in front of each line
 quantize.awk - output similar to the dtrace "quantize" function (useful buckets with graph)
+stat.awk - gather and output numerical statistics on the first field of a file
 table.awk - draw an ascii table sized appropriately with the fields from the input
